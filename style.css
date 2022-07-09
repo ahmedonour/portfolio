@@ -202,6 +202,20 @@ html {
 	letter-spacing: .6rem;
 	background-color: rgba(85, 85, 85, 0.534);
 }
+.hero .hero-info .hero-info-button:hover::after{
+	transform: translateX(-50%) scale(1);
+}
+.hero .hero-info .hero-info-button::after{
+	content: '';
+	position: absolute;
+	width: 5rem;
+	height: .2rem;
+	background-color: orange;
+	left: 50%;
+	transform: translateX(-50%) scale(0);
+	bottom: 0;
+	transition: .3s ease transform;
+}
 .hero .hero-info .hero-info-button i{
 	margin: 1rem;
 	font-size: 2rem;
