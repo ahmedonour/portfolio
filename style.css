@@ -202,15 +202,6 @@ html {
 	margin: 1rem;
 	font-size: 2rem;
 } 
-.hero .hero-img {
-	height: auto;
-	width: 70%;
-	margin-bottom: 3rem;
-}
-.hero .hero-img img {
-	height: auto;
-	width: 50%;
-}
 /* End Hero Section */
 
 /* About Section  */
