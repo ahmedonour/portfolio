@@ -342,7 +342,9 @@ html {
 }
 .services .services-info .service .service-card .service-front .service-front-heading{
 	padding: 2rem;
-	background-color: white;
+	background-color: rgba(0, 0, 0, 0.349);
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
 }
 .services .services-info .service .service-card .service-front .service-front-heading,
 .services .services-info .service .service-card .service-back .service-back-heading {
@@ -363,7 +365,7 @@ html {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 }
 .services .services-info .service:nth-child(1) .service-card .service-front::after {
 	content: '';
@@ -384,7 +386,7 @@ html {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 }
 .services .services-info .service:nth-child(2) .service-card .service-front::after {
 	content: '';
@@ -405,7 +407,7 @@ html {
 	background-repeat: no-repeat;
 	background-position: center;
 	position: relative;
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
 }
 .services .services-info .service:nth-child(3) .service-card .service-front::after {
 	content: '';
