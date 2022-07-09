@@ -368,11 +368,11 @@ html {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.274);
+	background-color: rgba(255, 255, 255, 0.274);
 	z-index: -1;
 }
 .services .services-info .service:nth-child(1) .service-card .service-front i {
-	color: white;
+	color: rgb(0, 0, 0);
 }
 .services .services-info .service:nth-child(2) .service-card .service-front {
 	background-image: url(./images/img-2.png);
@@ -389,11 +389,11 @@ html {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.274);
+	background-color: rgba(255, 255, 255, 0.274);
 	z-index: -1;
 }
 .services .services-info .service:nth-child(2) .service-card .service-front i {
-	color: white;
+	color: rgb(0, 0, 0);
 }
 .services .services-info .service:nth-child(3) .service-card .service-front {
 	background-image: url(./images/img-3.png);
@@ -410,11 +410,11 @@ html {
 	top: 0;
 	height: 100%;
 	width: 100%;
-	background-color: rgba(0, 0, 0, 0.274);
+	background-color: rgba(255, 255, 255, 0.274);
 	z-index: -1;
 }
 .services .services-info .service:nth-child(3) .service-card .service-front i {
-	color: white;
+	color: rgb(0, 0, 0);
 }
 /* End Services section  */
 
