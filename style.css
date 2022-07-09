@@ -340,6 +340,10 @@ html {
 	color: black;
 	margin-bottom: 10px;
 }
+.services .services-info .service .service-card .service-front .service-front-heading{
+	padding: 2rem;
+	background-color: white;
+}
 .services .services-info .service .service-card .service-front .service-front-heading,
 .services .services-info .service .service-card .service-back .service-back-heading {
 	font-size: 2.5rem;
