@@ -199,7 +199,7 @@ html {
 	text-transform: uppercase;
 	color: white;
 	text-decoration: none;
-	transition: .3s ease transform;
+	transition: .3s ease all;
 	letter-spacing: .6rem;
 	background-color: rgba(85, 85, 85, 0.534);
 }
