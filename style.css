@@ -246,6 +246,11 @@ html {
 	margin-top: 20px;
 	margin-bottom: 20px;
 	border-radius: 50px;
+	transition: .3s ease-in-out all;
+}
+.about .about-info .about-info-button:hover{
+	background-color: orange;
+	transform: translateX(-50%) scale(1);
 }
 .about .about-img {
 	margin-top: 50px;
