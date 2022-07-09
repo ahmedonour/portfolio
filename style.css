@@ -199,16 +199,18 @@ html {
 	text-transform: uppercase;
 	color: white;
 	text-decoration: none;
+	transition: .3s ease transform;
 	letter-spacing: .6rem;
 	background-color: rgba(85, 85, 85, 0.534);
 }
 .hero .hero-info .hero-info-button:hover::after{
+	background-color: red;
 	transform: translateX(-50%) scale(1);
 }
 .hero .hero-info .hero-info-button::after{
 	content: '';
 	position: absolute;
-	width: 5rem;
+	width: 10rem;
 	height: .2rem;
 	background-color: orange;
 	left: 50%;
