@@ -4,7 +4,7 @@
 	margin: 0;
 	box-sizing: border-box;
 }
-a{
+a,p{
 	text-decoration: none;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 700;
@@ -199,7 +199,7 @@ html {
 	text-transform: uppercase;
 	color: white;
 	text-decoration: none;
-	transition: .3s ease all;
+	transition: .7s ease all;
 	letter-spacing: .6rem;
 	background-color: rgba(85, 85, 85, 0.534);
 }
