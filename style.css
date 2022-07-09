@@ -185,6 +185,7 @@ html {
 	color: white;
 }
 .hero .hero-info .hero-info-button {
+	border-radius: 50px;
 	margin-top: 30px;
 	padding: 2rem 5rem;
 	display: inline-block;
@@ -242,6 +243,7 @@ html {
 	letter-spacing: .2rem;
 	margin-top: 20px;
 	margin-bottom: 20px;
+	border-radius: 50px;
 }
 .about .about-img {
 	margin-top: 50px;
