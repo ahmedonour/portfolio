@@ -166,7 +166,8 @@ html {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 70%;
+	width: 100%;
+	z-index: 3;
 	overflow: hidden;
 }
 .hero .hero-info {
