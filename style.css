@@ -355,7 +355,7 @@ html {
 }
 .services .services-info .service:nth-child(1) .service-card .service-front {
 	background-image: url(./images/img-1.png);
-	background-size: cover;
+	background-size: contain;
 	position: relative;
 	color: white;
 }
@@ -374,7 +374,7 @@ html {
 }
 .services .services-info .service:nth-child(2) .service-card .service-front {
 	background-image: url(./images/img-2.png);
-	background-size: cover;
+	background-size: contain;
 	position: relative;
 	color: white;
 }
@@ -393,7 +393,7 @@ html {
 }
 .services .services-info .service:nth-child(3) .service-card .service-front {
 	background-image: url(./images/img-3.png);
-	background-size: cover;
+	background-size: contain;
 	position: relative;
 	color: white;
 }
