@@ -24,6 +24,8 @@ html {
 	position: fixed;
 	z-index: 100;
 	background-color: #00000070;
+	-webkit-backdrop-filter: blur(5px);
+	backdrop-filter: blur(5px);
 }
 #nav-bar img{
 	width: 70px;
@@ -343,7 +345,7 @@ html {
 .services .services-info .service .service-card .service-front .service-front-heading{
 	padding: 2rem;
 	background-color: rgba(0, 0, 0, 0.2);
-	border-radius: 40px;
+	border-radius: 10px;
 	-webkit-backdrop-filter: blur(5px);
 	backdrop-filter: blur(5px);
 }
